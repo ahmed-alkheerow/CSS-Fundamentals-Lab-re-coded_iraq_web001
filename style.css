@@ -4,13 +4,13 @@ body {
   margin: 0;
 }
 h1 {
-  text-align: center;
+  text-align:center;
 }
 img {
-  align-content:  center;
+  align-self:center;
 }
 nav{
-  align-content: center;
+  align-self:center;
 }
 nav a {
   padding-left: 10px;
